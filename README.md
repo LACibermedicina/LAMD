@@ -1,5 +1,8 @@
 # LAMD
 Liga de medicina del deporte
+
+website: http://lamd.redirectme.net
+whatsapp: 
 *Projetos para Extensión Universitaria*
 
 1️⃣ *Avaliação Física e Saúde na Comunidade*
